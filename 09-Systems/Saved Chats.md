@@ -18,12 +18,23 @@ Full transcripts of my most important Claude chats, word for word.
 - [[AI CRM Services Ranked by Cost]]
 - [[Adding Leads to Outbox]]
 - [[Company Naming Research]]
-- [[Volvera Referral Outreach]]
 
 ## 02-Volvera/Clients
 
 - [[Gladden Boxing Club - AI Receptionist]]
 - [[Polar Bear Air Conditioning]]
+- [[TutorGNV Task]]
+
+## 02-Volvera/Clients/Leads
+
+- [[Volvera Referral Outreach]]
+- [[Adding Leads to Outbox - Oct 9]]
+- [[CSV export of outreach contacts]]
+- [[Gainesville mom and pop stores]]
+
+## Everything else
+
+- [[Archive Index]]: 33 older chats in 10-Archive
 
 ## 04-Work-and-Career/Chats
 
