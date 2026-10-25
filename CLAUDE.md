@@ -30,7 +30,7 @@ updated: YYYY-MM-DD
 
 ## Rules
 - Read a note before rewriting it. Never overwrite what you haven't read.
-- One topic per note. Link related notes with [[Note Name]].
+- One topic per note. Link related notes with `[[Note Name]]`.
 - Only delete files inside 00-Inbox or 99-Scratch.
 - Never touch: CLAUDE.md, 01-Command/START-HERE.md, _Templates.
 - Never store passwords, API keys, or account numbers. Replace any that appear with [REDACTED].
