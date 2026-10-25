@@ -1,0 +1,29 @@
+{
+  "collapse-filter": false,
+  "search": "-path:_Templates",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    { "query": "path:01-Command", "color": { "a": 1, "rgb": 15423319 } },
+    { "query": "path:02-Volvera", "color": { "a": 1, "rgb": 14723118 } },
+    { "query": "path:03-Health-and-Fitness", "color": { "a": 1, "rgb": 5025616 } },
+    { "query": "path:04-Work-and-Career", "color": { "a": 1, "rgb": 3113197 } },
+    { "query": "path:05-Classes", "color": { "a": 1, "rgb": 10179040 } },
+    { "query": "path:08-Playbooks", "color": { "a": 1, "rgb": 1356952 } }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": true
+}
