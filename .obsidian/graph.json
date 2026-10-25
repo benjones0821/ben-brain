@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "-path:_Templates",
+  "search": "-path:_Templates -path:10-Archive  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -61,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }
